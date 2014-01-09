@@ -8,7 +8,7 @@ public class helloword {
 		System.err.println("I learn many things from you !");
 		System.err.println("Thank you very much for your time this afternoon");
 		
-		System.err.println("LEARNING BY DOING AND TEACHING YOURSELF!!!");
+		System.err.println("LEARNING BY DOING AND TRY YOUR BEST!!!");
 		
 		
 		
