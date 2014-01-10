@@ -5,9 +5,8 @@ public class helloword {
 		System.out.println("HELLO WASEEM !");
 		System.out.println("HOW ARE YOU TODAY ?");
 		
-		System.err.println("Are you coming today?");
+		System.err.println("Difficult to focus, so many distractions !");
 		
-		System.err.println("What is the next thing for me to learn?");
 		
 		
 		
