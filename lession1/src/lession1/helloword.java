@@ -3,12 +3,9 @@ package lession1;
 public class helloword {
 	public static void main (String[] args){
 		System.out.println("HELLO WASEEM !");
-		System.out.println("hiiiii buddy");
+		System.out.println("HOW ARE YOU TODAY ?");
 		
-		System.err.println("I learn many things from you !");
-		System.err.println("Thank you very much for your time this afternoon");
-		
-		System.err.println("TEACHING YOURSELF, TRY YOUR BEST!!!");
+		System.err.println("Are you coming today?");
 		
 		
 		
