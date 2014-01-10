@@ -7,6 +7,8 @@ public class helloword {
 		
 		System.err.println("Are you coming today?");
 		
+		System.err.println("What is the next thing for me to learn?");
+		
 		
 		
 	}
