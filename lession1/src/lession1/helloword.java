@@ -10,5 +10,6 @@ public class helloword {
 		
 		
 		
+		System.out.println("HELLO Vuonglinh..");
 	}
 }
